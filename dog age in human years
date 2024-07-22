@@ -1,0 +1,7 @@
+Dog_age=int(input("enter dog age:"))
+human_age=0
+if(dog_age>=1):
+  human_age=dog_age*7
+else:
+print("enter dog age which should be greater than 1");
+print(human_age)
